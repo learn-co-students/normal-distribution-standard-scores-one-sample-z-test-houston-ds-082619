@@ -28,11 +28,17 @@ Statistics
 #### Learn.co material:
 
 [The Normal Distribution](https://github.com/learn-co-curriculum/dsc-normal-distribution)
+
 [The Normal Distribution - Lab](https://github.com/learn-co-curriculum/dsc-normal-distribution-lab)
+
 [The Standard Normal Distribution](https://github.com/learn-co-curriculum/dsc-standard-normal-distribution)
+
 [The Standard Normal Distribution - Lab](https://github.com/learn-co-curriculum/dsc-standard-normal-distribution-lab)
+
 [Statistical Testing with z-score and p-value](https://github.com/learn-co-curriculum/dsc-z-score-p-value)
+
 [One-Sample z-test](https://github.com/learn-co-curriculum/dsc-one-sample-z-test)
+
 [One-Sample z-test - Lab](https://github.com/learn-co-curriculum/dsc-one-sample-z-test-lab)
 
 #### Prerequisite knowledge/ Prework:
