@@ -27,16 +27,41 @@ Statistics
 
 #### Learn.co material:
 
+[The Normal Distribution](https://github.com/learn-co-curriculum/dsc-normal-distribution)
+[The Normal Distribution - Lab](https://github.com/learn-co-curriculum/dsc-normal-distribution-lab)
+[The Standard Normal Distribution](https://github.com/learn-co-curriculum/dsc-standard-normal-distribution)
+[The Standard Normal Distribution - Lab](https://github.com/learn-co-curriculum/dsc-standard-normal-distribution-lab)
+[Statistical Testing with z-score and p-value](https://github.com/learn-co-curriculum/dsc-z-score-p-value)
+[One-Sample z-test](https://github.com/learn-co-curriculum/dsc-one-sample-z-test)
+[One-Sample z-test - Lab](https://github.com/learn-co-curriculum/dsc-one-sample-z-test-lab)
+
 #### Prerequisite knowledge/ Prework:
 
-Probability Mass Function
-Probability Density Function
-Cumulative Distribution Function
+- Probability Mass Function
+- Probability Density Function
+- Cumulative Distribution Function
+- Matplotlib/Seaborn
+
+#### Prerequisite Learn-Materials:
+
+The Normal Distribution
+
+The Standard Normal Distribution
+
+Statistical Testing with z-score and p-value 
+
+One-Sample z-test 
 
 #### Learning goals for this lesson: 
 
-* Learning goal 1
-* Learning goal 2 
+* Students understand the parameters that characterize normal distributions.
+* Students can create and visualize normal distributions using python packages. 
+* Students can interpret the standard score of an observation from normally distributed data.
+* Students know how to standardize normal distributions. 
+* Students can define the significance threshold $\alpha$ and its relation to p-value. 
+* Students can define null and alternative hypotheses, and when they're used. 
+* Students can use scipy methods to compute the p value of a z-score and are able to interpet the significance of results. 
+* Students understand and can perform 1-sample z-tests.  
 
 Relevant learning goals from Airtable: 
 
