@@ -18,7 +18,7 @@ hidden: true
 
 #### Lesson Summary:
 
-This lesson starts by asking students to describe the parameters that characterize a normal distribution and to discuss the empirical rule. Students use numpy, matplotlib and seaborn to create histograms of normal distributions. From there, the standardized normal distribution is discussed and students are asked to standardize normally distributed data. After discussing the standard normal distribution, students should discuss why the standard score is a useful statistic. 
+This lesson begins by asking students to describe the parameters that characterize a normal distribution and to discuss the empirical rule. Students use numpy, matplotlib and seaborn to create histograms of normal distributions. From there, the standardized normal distribution is discussed and students are asked to standardize normally distributed data. After discussing the standard normal distribution, students should discuss why the standard score is a useful statistic. Using a real world dataset, students compute z-scores from values and convert z-scores to values. The remainder of the lesson is spent discussing statistical testing with z-scores. Students are presented with conceptual questions relating to statistical testing with z-scores and p-values. Then, students are asked to compute the probability of observing values given some z-scores. Then they perform two-sided and one-sided z-tests for data provided to them (at significance level alpha = 0.05), after stating null and alternative hypotheses. 
 
 
 #### Topic:
@@ -87,6 +87,8 @@ Relevant learning goals from Airtable:
 
 #### Misconceptions / Notes
 
+* Computing two-sided one-sample z-tests may cause some confusion. 
+
 #### Materials
 
 - Ipython notebook
@@ -97,9 +99,9 @@ standard score
 
 #### Lesson Outline:
 
-1. Normal distribution
-2. Standard normal distribution
-3. Standard score 
-4. 
+1. Normal distribution (10 minutes) 
+2. Standard normal distribution (10 minutes)
+3. Standard score (10 minutes)
+4. Statistical testing with z-scores and p-values (30 minutes)
 
 
