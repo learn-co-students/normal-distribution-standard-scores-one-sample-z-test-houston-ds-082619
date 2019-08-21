@@ -67,7 +67,7 @@ One-Sample z-test
 * Students can define the significance threshold $\alpha$ and its relation to p-value. 
 * Students can define null and alternative hypotheses, and when they're used. 
 * Students can use scipy methods to compute the p value of a z-score and are able to interpet the significance of results. 
-* Students understand and can perform 1-sample z-tests.  
+* Students understand and can perform 1-sample z-tests, and can grasp the difference between one-tailed and two-tailed tests.  
 
 Relevant learning goals from Airtable: 
 
@@ -87,7 +87,7 @@ Relevant learning goals from Airtable:
 
 #### Misconceptions / Notes
 
-* Computing two-sided one-sample z-tests may cause some confusion. 
+* Computing two-tailed one-sample z-tests may cause confusion.  
 
 #### Materials
 
