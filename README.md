@@ -126,8 +126,10 @@ standard score
         * One-sample z-test
             * z-statistic: denominator: _sample variance_
             * Spend some time explaining the statement of null and alternative hypotheses but do not dwell too much (more than 5 minutes) on this part. Hypothesis testing will be explained more in depth in Section 20. 
+            * One-tailed vs two-tailed one-sample z-tests **
             * Discuss the importance of $\alpha$ (significance level) as a threshold.
-            * Students should grasp the difference between one-tailed and two-tailed one-sample z-tests. 
+    * Applied examples of computation of one-sample z-test results are presented before conceptual discussion of p-values and significance threshold. These are meant to motivate the discussion. 
+
 
 * Summary (10 minutes)
 
