@@ -124,8 +124,10 @@ standard score
             * Cumulative distribution function: `scipy.stats.norm.cdf` 
         * Statistical hypotheses and hypothesis testing
         * One-sample z-test
-            * Spend some time explaining null and alternative hypotheses but do not dwell too much (more than 5 minutes) on this part. 
-                * Hypothesis testing will be explained in a later section. 
+            * z-statistic: denominator: _sample variance_
+            * Spend some time explaining the statement of null and alternative hypotheses but do not dwell too much (more than 5 minutes) on this part. Hypothesis testing will be explained more in depth in Section 20. 
+            * Discuss the importance of $\alpha$ (significance level) as a threshold.
+            * Students should grasp the difference between one-tailed and two-tailed one-sample z-tests. 
 
 * Summary (10 minutes)
 
