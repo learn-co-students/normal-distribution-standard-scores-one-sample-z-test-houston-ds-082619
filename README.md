@@ -99,9 +99,34 @@ standard score
 
 #### Lesson Outline:
 
-1. Normal distribution (10 minutes) 
-2. Standard normal distribution (10 minutes)
-3. Standard score (10 minutes)
-4. Statistical testing with z-scores and p-values (30 minutes)
+* Normal distribution (10 minutes) 
+    * Students describe the characteristics of a normal distribution and the empirical rule  
+    * Applied practice:
+        * numpy, matplotlib, seaborn
+        
+* Standard normal distribution (5-10 minutes)
+    * Students compare normal distribution and standard normal distribution  
+    * Students explain how to transform a normal distribution to a standard normal distribution. 
+    * Applied practice: 
+        * Students standardize the normal distribution they created in the previous section and plot the `distplot` with seaborn.
+        
+* Standard score (5-10 minutes)
+    * Motivate discussion about z-scores: they let you understand how extreme a measurement is compared to the rest  
+    * Applied practice:
+        * A real-world dataset is brought in using pandas. 
+        * Students create and plot distribution using numpy and seaborn. 
 
+* Statistical testing with z-scores and p-values (20-25 minutes)
+    * A big chunk of this lesson should be spent discussing concepts around statistical testing:
+        * Samples and populations
+        * Computing probabilities of observations
+            * A conceptual problem and applied problem are presented to test students' understanding. 
+            * Cumulative distribution function: `scipy.stats.norm.cdf` 
+        * Statistical hypotheses and hypothesis testing
+        * One-sample z-test
+            * Spend some time explaining null and alternative hypotheses but do not dwell too much (more than 5 minutes) on this part. 
+                * Hypothesis testing will be explained in a later section. 
 
+* Summary (10 minutes)
+
+0-5 minutes wiggle room.
