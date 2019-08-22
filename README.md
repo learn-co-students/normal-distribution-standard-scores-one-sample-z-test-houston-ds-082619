@@ -95,7 +95,13 @@ Relevant learning goals from Airtable:
 
 #### Vocab / Concepts 
 
-standard score
+- standardization of a normal distribution
+- standard score 
+- statistical significance
+- hypothesis testing
+- null hypothesis, alternative hypothesis
+- p-value
+- significance threshold, $\alpha$
 
 #### Lesson Outline:
 
@@ -125,9 +131,10 @@ standard score
         * Statistical hypotheses and hypothesis testing
         * One-sample z-test
             * z-statistic: denominator: _sample variance_
-            * Spend some time explaining the statement of null and alternative hypotheses but do not dwell too much (more than 5 minutes) on this part. Hypothesis testing will be explained more in depth in Section 20. 
+            * Spend some time explaining the statement of null and alternative hypotheses but do not dwell too much (more than 5 minutes) on this part. Hypothesis testing will be discussed further in another section. 
             * One-tailed vs two-tailed one-sample z-tests **
-            * Discuss the importance of $\alpha$ (significance level) as a threshold.
+            * Discuss the importance of $\alpha$ (significance level) as a threshold
+                * Setting $\alpha$ is a business decision: how much risk that you're wrong are you willing to tolerate? 
     * Applied examples of computation of one-sample z-test results are presented before conceptual discussion of p-values and significance threshold. These are meant to motivate the discussion. 
 
 
